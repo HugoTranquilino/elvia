@@ -1,0 +1,20 @@
+body{
+  background-color: black;
+}
+#saludo{
+  font-size: 42px;
+  color: white;
+  padding-bottom: 3rem;
+  padding-top: 3rem;
+}
+
+#imagen {
+    width: 100%;
+    height: auto;
+}
+
+#audio{
+  width: 100%
+  height:auto;
+  margin-top: 2rem;
+}
